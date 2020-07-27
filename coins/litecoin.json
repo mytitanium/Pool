@@ -1,0 +1,6 @@
+{
+	"name": "Titanium Coin",
+    "symbol": "TTM",
+    "algorithm": "x11",
+    "mposDiffMultiplier": 256
+}
